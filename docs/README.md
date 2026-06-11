@@ -1,12 +1,4 @@
-# Backtesting Bias Analysis
-
-A collection of educational resources explaining some of the most common biases and hidden pitfalls that can distort backtesting results in quantitative finance, algorithmic trading, and investment research.
-
-Backtests can easily create an illusion of profitability if these biases are ignored. Understanding them is essential for building robust trading strategies and avoiding costly mistakes.
-
----
-
-## Repository Contents
+# Directory Contents
 
 ### 📄 Survivorship Bias
 
