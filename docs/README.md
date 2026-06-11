@@ -96,7 +96,7 @@ Slippage refers to the difference between the expected execution price and the a
 
 ---
 
-## Why This Repository Exists
+## Why This Directory Exists
 
 Many beginners build strategies that appear highly profitable in historical testing but fail in live markets because hidden biases were overlooked.
 
