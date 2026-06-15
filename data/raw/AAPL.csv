@@ -1,0 +1,1 @@
+load_data("AAPL").to_csv("../data/raw/AAPL.csv")
